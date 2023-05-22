@@ -3,4 +3,4 @@ Projeto no Figma: https://www.figma.com/file/m8SuOwbJnX50XwLdIg5c2p/GitHub?type=
 
 
 ## Te ajudo a pedir seu amor em namoro, tenho certeza que a resposta será um sim :)
-https://luuanamendes.github.io/pedido/
+Projeto: https://luuanamendes.github.io/pedido/
